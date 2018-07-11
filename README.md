@@ -1,0 +1,2 @@
+# MyIdeaSetting
+Idea Property
