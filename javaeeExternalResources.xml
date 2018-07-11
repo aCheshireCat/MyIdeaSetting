@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://java.sun.com/jsp/jstl/core" location="E:/MyWork/WorkSpace/MyProject/MySpringMVCProject/lib/c.tld" />
+    <resource url="http://java.sun.com/jsp/jstl/fmt" location="E:/MyWork/WorkSpace/MyProject/MySpringMVCProject/lib/fmt.tld" />
+  </component>
+</application>

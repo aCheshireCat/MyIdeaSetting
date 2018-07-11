@@ -1,0 +1,13 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <option name="INSTRUMENTATION" value="ASSERT" />
+    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
+    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
+    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
+    <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="EL" injector-id="xml">
+      <display-name>forEach/@items</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("items")).withParent(xmlTag().withLocalName(string().equalTo("forEach")).withNamespace(string().equalTo("http://java.sun.com/jsp/jstl/core")))]]></place>
+    </injection>
+  </component>
+</application>

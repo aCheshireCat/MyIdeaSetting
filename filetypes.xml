@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="TestFileRead" type="CLASS" />
+      <mapping pattern="TestFileReader" type="JAVA" />
+    </extensionMap>
+  </component>
+</application>
