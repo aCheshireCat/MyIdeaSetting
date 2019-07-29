@@ -1,13 +1,29 @@
 <scheme name="WhiteQueen" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2018-05-08T21:22:53</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.4.0.0</property>
-    <property name="modified">2018-06-28T20:05:12</property>
+    <property name="modified">2019-07-29T23:20:21</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="20" />
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Courier New" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Courier New" />
+  <attributes>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="99ccbb" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
