@@ -30,8 +30,12 @@
           <option name="url" value="https://github.com/aCheshireCat/JavaEETest.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@c7n-gitlab.longi-silicon.com:32222/operation-ithzero001/longi-msp-budget.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\MyWork\OtherWorkspace\JavaEETest" />
+    <option name="cloneParentDir" value="E:\MyWork\longi workspace" />
   </component>
 </application>
